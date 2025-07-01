@@ -30,4 +30,14 @@ Overall, a personal portfolio website built with HTML, CSS, and JavaScript is a 
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/8abb8d62-ae1d-41a0-9335-71191136507d)
 
+![Image](https://github.com/user-attachments/assets/5547a5e9-deb1-43b1-83ec-21d17995023d)
+
+![Image](https://github.com/user-attachments/assets/cded5419-ae47-4f5d-a9c0-fee8662ab769)
+
+![Image](https://github.com/user-attachments/assets/aaa68075-2fad-4e0f-9268-ee8ad12d5e3c)
+
+![Image](https://github.com/user-attachments/assets/33c213f6-1004-4aa0-8e16-6ae6d0490c02)
+
+![Image](https://github.com/user-attachments/assets/984a1c0e-6514-4cff-8370-01aa29cdf1bf)
